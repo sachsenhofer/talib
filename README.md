@@ -1,4 +1,9 @@
-# TA-Lib Technical Analysis Library Container
+# Technical Analysis Library (TA-Lib) Container
+
+This is the home of the Technical Analysis Library (TA-Lib) Container. You can use this repository to start with your trading applications. 
+
+<br>
+<br>
 
 ## Usage
 
@@ -19,3 +24,4 @@ sudo docker run -p 8080:8080 talib:latest
 
 ```
 curl localhost:8080/health
+```
