@@ -1,6 +1,6 @@
 # Technical Analysis Library (TA-Lib) Container
 
-This is the home of the Technical Analysis Library (TA-Lib) Container. You can use this repository to start with your trading applications. The TA-Lib library is already installed in the Docker container.
+This is the home of the Technical Analysis Library (TA-Lib) Container. You can use this repository to start with your trading applications. TA-Lib is already installed in the container.
 
 <br>
 
