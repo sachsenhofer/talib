@@ -21,6 +21,10 @@ sudo docker run -p 8080:8080 talib:latest
 
 ### Verify
 
+Execute the following command in your terminal:
+
 ```
 curl localhost:8080/health
 ```
+
+This should return 0.
