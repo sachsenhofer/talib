@@ -8,11 +8,15 @@ This is the home of the Technical Analysis Library (TA-Lib) Container. You can u
 
 ### Build
 
+Execute the following command in your terminal:
+
 ```
 sudo docker build -t talib:latest .
 ```
 
 ### Run
+
+Execute the following command in your terminal:
 
 ```
 sudo docker run -p 8080:8080 talib:latest
@@ -26,5 +30,3 @@ Execute the following command in your terminal:
 ```
 curl localhost:8080/health
 ```
-
-This should return 0.
