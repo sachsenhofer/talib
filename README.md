@@ -3,7 +3,6 @@
 This is the home of the Technical Analysis Library (TA-Lib) Container. You can use this repository to start with your trading applications. The TA-Lib library is already installed in the Docker container.
 
 <br>
-<br>
 
 ## Usage
 
