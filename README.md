@@ -24,3 +24,8 @@ sudo docker run -p 8080:8080 talib:latest
 ```
 curl localhost:8080/health
 ```
+
+<br>
+<br>
+
+Learn more on https://sachsenhofer.io.
