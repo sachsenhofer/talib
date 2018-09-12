@@ -28,4 +28,4 @@ curl localhost:8080/health
 <br>
 <br>
 
-[sachsenhofer.io](https://sachsenhofer.io)
+Learn more: [sachsenhofer.io](https://sachsenhofer.io)
